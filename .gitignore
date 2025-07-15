@@ -1,0 +1,7 @@
+__pycache__/
+**/__pycache__/
+outputs_testing/
+tests.ipynb
+input/
+diagrams/
+__init__.py
